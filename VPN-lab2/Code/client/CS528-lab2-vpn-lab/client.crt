@@ -1,0 +1,66 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4097 (0x1001)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=IN, L=West Lafayette, O=Purdue Univ, CN=Jevin Modi root CA
+        Validity
+            Not Before: Mar  1 01:25:02 2024 GMT
+            Not After : Mar  1 01:25:02 2025 GMT
+        Subject: C=US, ST=IN, O=Purdue Univ, CN=client Jevin Modi
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:be:03:ee:9f:f1:f2:6c:32:da:a1:51:b4:a6:25:
+                    55:70:98:1e:f8:09:0d:ac:76:df:95:c5:15:89:99:
+                    16:53:47:ef:10:0e:59:15:56:86:94:71:73:4a:04:
+                    91:34:07:99:d2:15:c4:bb:98:05:43:48:0f:99:c2:
+                    bd:a2:04:7f:be:2d:53:ad:5e:22:df:ab:d9:53:02:
+                    f5:d5:6d:08:59:8e:fd:72:e9:b5:86:b1:66:83:83:
+                    08:2e:73:d3:41:61:23:66:ad:f1:85:81:89:58:1f:
+                    51:d0:e9:49:55:95:c2:b0:89:70:14:44:10:01:7e:
+                    1f:95:dd:a4:9a:f2:39:a3:99
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                AD:75:95:BD:23:A0:70:AD:2C:8A:70:E4:E1:09:02:1B:CB:C2:C7:57
+            X509v3 Authority Key Identifier: 
+                7F:3F:B4:C4:62:3F:A5:9C:A1:1F:2B:60:C0:A6:30:C0:C5:22:06:3F
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        70:81:0c:d5:d6:33:0c:68:bd:e0:16:46:72:3c:3c:47:01:86:
+        49:56:0f:9d:2a:bc:66:d4:23:1a:5b:7b:bd:ef:ab:bc:7e:53:
+        fb:6f:1b:8c:1c:a2:95:67:13:a9:5b:55:d1:ee:65:2a:4d:26:
+        6b:fb:65:d7:00:8a:11:7a:90:5b:45:1d:b4:23:03:0e:96:ae:
+        61:3a:96:88:bb:dc:7a:ca:1d:c1:98:98:4e:e9:ab:e7:7c:61:
+        0b:0c:64:52:0a:2b:4f:8c:35:9b:72:4e:ee:c1:01:f6:5c:f0:
+        68:5a:37:fb:02:26:bb:61:90:dd:23:5b:07:c4:5c:38:43:bc:
+        58:9d:fe:72:2d:c3:35:b9:92:15:32:0d:0f:b6:a1:3f:62:59:
+        57:f4:25:d4:cb:13:df:4e:f6:ea:04:52:7e:fa:d7:c8:7c:a0:
+        08:ff:83:40:04:67:1e:34:d8:d2:bf:13:ad:95:02:f0:ad:b3:
+        e0:65:e0:2d:2d:60:72:08:6d:55:55:ac:d3:01:8d:0c:74:7c:
+        85:50:fe:7d:7a:d1:5d:93:fb:c7:b6:ed:3b:ae:62:dd:30:bc:
+        c1:e3:e5:23:5a:fb:3b:5e:00:52:42:13:4c:c7:c7:01:45:73:
+        5c:0c:b0:6e:9d:76:96:8c:0e:4a:6c:0d:39:fa:b3:55:2a:98:
+        c2:e5:30:53
+-----BEGIN CERTIFICATE-----
+MIIC9zCCAd+gAwIBAgICEAEwDQYJKoZIhvcNAQELBQAwZjELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgMAklOMRcwFQYDVQQHDA5XZXN0IExhZmF5ZXR0ZTEUMBIGA1UECgwL
+UHVyZHVlIFVuaXYxGzAZBgNVBAMMEkpldmluIE1vZGkgcm9vdCBDQTAeFw0yNDAz
+MDEwMTI1MDJaFw0yNTAzMDEwMTI1MDJaMEwxCzAJBgNVBAYTAlVTMQswCQYDVQQI
+DAJJTjEUMBIGA1UECgwLUHVyZHVlIFVuaXYxGjAYBgNVBAMMEWNsaWVudCBKZXZp
+biBNb2RpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+A+6f8fJsMtqhUbSm
+JVVwmB74CQ2sdt+VxRWJmRZTR+8QDlkVVoaUcXNKBJE0B5nSFcS7mAVDSA+Zwr2i
+BH++LVOtXiLfq9lTAvXVbQhZjv1y6bWGsWaDgwguc9NBYSNmrfGFgYlYH1HQ6UlV
+lcKwiXAURBABfh+V3aSa8jmjmQIDAQABo00wSzAJBgNVHRMEAjAAMB0GA1UdDgQW
+BBStdZW9I6BwrSyKcOThCQIby8LHVzAfBgNVHSMEGDAWgBR/P7TEYj+lnKEfK2DA
+pjDAxSIGPzANBgkqhkiG9w0BAQsFAAOCAQEAcIEM1dYzDGi94BZGcjw8RwGGSVYP
+nSq8ZtQjGlt7ve+rvH5T+28bjByilWcTqVtV0e5lKk0ma/tl1wCKEXqQW0UdtCMD
+DpauYTqWiLvcesodwZiYTumr53xhCwxkUgorT4w1m3JO7sEB9lzwaFo3+wImu2GQ
+3SNbB8RcOEO8WJ3+ci3DNbmSFTIND7ahP2JZV/Ql1MsT30726gRSfvrXyHygCP+D
+QARnHjTY0r8TrZUC8K2z4GXgLS1gcghtVVWs0wGNDHR8hVD+fXrRXZP7x7btO65i
+3TC8wePlI1r7O14AUkITTMfHAUVzXAywbp12lowOSmwNOfqzVSqYwuUwUw==
+-----END CERTIFICATE-----
